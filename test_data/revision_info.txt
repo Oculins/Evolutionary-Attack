@@ -1,0 +1,7 @@
+arguments: E:/All_Courses/Optimization_Methods/Final_Project/Adversarial_Attacks_on_Face_Recognition/Models/facenet/understand_facenet/align/align_dataset_mtcnn.py E:\All_Courses\Optimization_Methods\Final_Project\Adversarial_Attacks_on_Face_Recognition\Models\facenet\understand_facenet\test_data E:\All_Courses\Optimization_Methods\Final_Project\Adversarial_Attacks_on_Face_Recognition\Models\facenet\understand_facenet\test_data_112
+--------------------
+tensorflow version: 1.14.0
+--------------------
+git hash: b''
+--------------------
+b''
